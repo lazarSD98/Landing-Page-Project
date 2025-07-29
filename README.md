@@ -23,3 +23,4 @@ The goal of this project is to practice and showcase CSS layout skills, especial
 ## Notes
 - No JavaScript or other scripting languages are used in this project.
 - Image assets are stored in the `/images` folder and referenced in the CSS.
+- Webpage is not designed for Mobile users
